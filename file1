@@ -1,0 +1,13 @@
+{
+  "action": "opened",
+  "number": 1,
+  "pull_request": {
+    "html_url": "https://github.com/owner/repo/pull/1",
+    // ...other pull request fields...
+  },
+  "repository": {
+    "full_name": "owner/repo",
+    // ...other repository fields...
+  },
+  // ...other fields...
+}
